@@ -9,7 +9,7 @@
     name: 'header',
     data () {
       return {
-        msg: '脚手架Vue_cli'
+        msg: '脚手架Vue_cli '
       }
     }
   }
